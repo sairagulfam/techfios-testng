@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21628" started-at="2020-02-09T21:41:30 CST" finished-at="2020-02-09T21:41:52 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21628" started-at="2020-02-09T21:41:30 CST" finished-at="2020-02-09T21:41:52 CST">
+      <class name="test.NewDepositTest">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:test.NewDepositTest@627551fb]" name="LaunchBrowser" is-config="true" duration-ms="7900" started-at="2020-02-09T21:41:31 CST" finished-at="2020-02-09T21:41:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="usershouldBeableToAddDeposit()[pri:0, instance:test.NewDepositTest@627551fb]" name="usershouldBeableToAddDeposit" duration-ms="3351" started-at="2020-02-09T21:41:38 CST" finished-at="2020-02-09T21:41:42 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usershouldBeableToAddDeposit -->
+        <test-method status="PASS" signature="closeEverything()[pri:0, instance:test.NewDepositTest@627551fb]" name="closeEverything" is-config="true" duration-ms="919" started-at="2020-02-09T21:41:42 CST" finished-at="2020-02-09T21:41:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeEverything -->
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:test.NewDepositTest@627551fb]" name="LaunchBrowser" is-config="true" duration-ms="3691" started-at="2020-02-09T21:41:43 CST" finished-at="2020-02-09T21:41:46 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="usershouldBeableToAddDeposit2()[pri:0, instance:test.NewDepositTest@627551fb]" name="usershouldBeableToAddDeposit2" duration-ms="2759" started-at="2020-02-09T21:41:46 CST" finished-at="2020-02-09T21:41:49 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usershouldBeableToAddDeposit2 -->
+        <test-method status="PASS" signature="closeEverything()[pri:0, instance:test.NewDepositTest@627551fb]" name="closeEverything" is-config="true" duration-ms="2956" started-at="2020-02-09T21:41:49 CST" finished-at="2020-02-09T21:41:52 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeEverything -->
+      </class> <!-- test.NewDepositTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
